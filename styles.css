@@ -1,0 +1,49 @@
+*{
+	font-family:"Courier New";
+}
+
+html {
+	background-color:black;
+	padding-top:50px;
+	}
+	
+body header{
+	color:purple;
+	text-align:center;
+	font-size:50px;
+	
+	border:3px solid red;
+	margin-left:600px;
+	margin-right:600px;
+	margin-bottom:100px;
+	
+}
+
+body article{
+	text-align:center;
+	color:purple;
+	font-size:25px;
+	border:3px solid red;
+	margin-left:600px;
+	margin-right:600px;
+
+	
+	
+	
+}
+p.spiffy{
+	color:yellow;
+}
+dir{
+	
+	color:purple;
+	font-size:15px;
+	text-align:center;
+}
+#mynum{
+	color:red;
+	font-weight:400;
+	
+}
+
+	
